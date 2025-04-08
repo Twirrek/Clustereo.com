@@ -1847,11 +1847,11 @@ hr::before,
   border-left: 4px solid transparent;
   padding: 1em 2em;
 }
-.msg--highlight {
+.msg--highlightt {
   background-color: #FFFCF1;
   border-color: #e7b600;
 }
-.msg--info {
+.msg--infos {
   background: #F2F9FF;
   border-color: #007de8;
 }

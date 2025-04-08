@@ -3,10 +3,22 @@
     <title>Clustereo.com</title>
     <link href="https://clustereo.com/feed.xml" rel="self" />
     <link href="https://clustereo.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-04-08T02:23:12+02:00</updated>
     <author>
         <name>Tarik</name>
     </author>
     <id>https://clustereo.com</id>
 
+    <entry>
+        <title>Post1</title>
+        <author>
+            <name>Tarik</name>
+        </author>
+        <link href="https://clustereo.com/post1.html"/>
+        <id>https://clustereo.com/post1.html</id>
+
+        <updated>2025-04-08T02:23:12+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
