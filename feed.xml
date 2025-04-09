@@ -3,7 +3,7 @@
     <title>Clustereo.com</title>
     <link href="https://clustereo.com/feed.xml" rel="self" />
     <link href="https://clustereo.com" />
-    <updated>2025-04-08T02:23:12+02:00</updated>
+    <updated>2025-04-09T03:30:17+02:00</updated>
     <author>
         <name>Tarik</name>
     </author>
@@ -19,6 +19,10 @@
 
         <updated>2025-04-08T02:23:12+02:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <p><video loading="lazy" width="658" height="329" style="width: 658px; height: 329px;" controls="controls"><source src="media/files/Clustereo.mp4" type="video/mp4" /></video></p>
+            ]]>
+        </content>
     </entry>
 </feed>
