@@ -13,7 +13,8 @@
             "id": "https://clustereo.com/post1.html",
             "url": "https://clustereo.com/post1.html",
             "title": "Présentation de l&#x27;interface Utilisateur de Clustereo ",
-            "content_html": "<p><video loading=\"lazy\" width=\"658\" height=\"329\" style=\"width: 962px; height: 476px;\" controls=\"controls\"><source src=\"media/files/Clustereo.mp4\" type=\"video/mp4\" /></video></p>",
+            "summary": "Clustereo est un nouveau navigateur web qui est un GameChanger sous plusieurs aspects:",
+            "content_html": "<p><span style=\"color: #e67e23;\"><em>Clustereo</em></span> est un nouveau navigateur web qui est un GameChanger sous plusieurs aspects:</p>\n<ol>\n<li><span style=\"color: #236fa1;\"> <span style=\"text-decoration: underline; color: #e67e23;\">Interface Utilisateur:</span></span><br>Une interface utilisateur qui apporte un monde de navigation révolutionnaire en ZOOM, MAPPING et 3D, qui regroupe les onglets, les favoris et ‘l’historique de navigation sous forme de vignettes,</li>\n<li><span style=\"text-decoration: underline;\"><span style=\"color: #e67e23; text-decoration: underline;\">les protocoles d’échange P2P:</span></span><br>En plus du classique protocole HTTP, Clustereo apporte des protocoles de transport et d’échange P2P : DAT, IPFS, blockChain …, qui permettent une résilience, efficacité, protection, échange de gros fichiers, résistant à la censure,</li>\n<li><span style=\"color: #e67e23;\">Intégration en local d’applications et services:</span><br>Suite bureautique, cartographie, traitement d’images, montage video...</li>\n<li><span style=\"color: #e67e23;\">Bloqueur de pubs intégré,</span></li>\n<li><span style=\"color: #e67e23;\">Assistant IA Agentique intégré:</span><br>En Local, donc les données sont protégées,</li>\n<li><span style=\"color: #e67e23;\">Open source:</span><br>Toute la stack est open source, en privilégiant les logiciels publiques, tels : Olvid, La suite Numérique (franco-Allemande), Delta Chat, ...</li>\n<li>v<span style=\"color: #e67e23;\">otre site auto-hébergé en local dans le navigateur,</span></li>\n<li><span style=\"color: #e67e23;\">Moteur de recherche basé sur l’agrégation anonymes des bookmarks des users.</span></li>\n</ol>\n<p> </p>\n<p><video loading=\"lazy\" width=\"658\" height=\"329\" style=\"width: 962px; height: 476px;\" controls=\"controls\"><source src=\"media/files/Clustereo.mp4\" type=\"video/mp4\" /></video></p>",
             "image": "https://clustereo.com/media/posts/2/Clustereo.png",
             "author": {
                 "name": "Tarik"
@@ -21,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2025-04-08T02:23:12+02:00",
-            "date_modified": "2025-04-09T05:13:32+02:00"
+            "date_modified": "2025-05-13T01:57:49+02:00"
         }
     ]
 }
